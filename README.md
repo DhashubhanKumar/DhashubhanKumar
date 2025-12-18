@@ -10,7 +10,7 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      
+
 ## 📌 About Me
 - **AI Engineer | LLM Orchestration Specialist**
 - I build systems that go beyond basic prompting, focusing on **Autonomous Agents**, **RAG**, and **Model Fine-tuning**.
@@ -24,7 +24,7 @@
 - Generative AI & LLM Orchestration
 - Autonomous Agent Workflows
 - RAG System Architecture
-      
+
     </td>
     <td width="40%" valign="middle" align="center">
       <img src="6212485181ca055f760855d98d3ee4bc.gif" width="100%" />
@@ -62,12 +62,16 @@
   </a>
 </p>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+</div>
+
+<br />
 
 <div align="center">
-  <img src="6212485181ca055f760855d98d3ee4bc.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
