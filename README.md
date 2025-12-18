@@ -7,56 +7,49 @@
   </a>
 </p>
 
-<img src="6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
-
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      
 ## 📌 About Me
-- **AI Engineer | LLM Orchestration & Fine-tuning Specialist**
-- I build intelligent systems that go beyond basic prompting. My expertise lies at the intersection of Autonomous Agents, RAG architectures, and Efficient Model Fine-tuning.
+- **AI Engineer | LLM Orchestration Specialist**
+- I build systems that go beyond basic prompting, focusing on **Autonomous Agents**, **RAG**, and **Model Fine-tuning**.
 - 🛠️ **Core Capabilities:**
-  - **Agentic Workflows:** Designing self-healing multi-agent loops with LangGraph (e.g., PyFlow-Architect).
-  - **Model Optimization:** Fine-tuning LLMs using LoRA/QLoRA for domain-specific performance.
-  - **Knowledge Retrieval:** Implementing high-accuracy RAG pipelines with vector databases and semantic search.
-  - **Verification Loops:** Developing internal "Inspector" systems for code and logic validation.
-- **Actively looking for internships.**
+  - **Agentic Workflows:** Multi-agent loops with LangGraph.
+  - **Model Optimization:** Fine-tuning via LoRA/QLoRA.
+  - **Verification Loops:** Logic validation systems.
+- 🎓 **Actively looking for internships.**
 
 ## 🧠 My Focus Areas
 - Generative AI & LLM Orchestration
-- Autonomous Agent Workflows (LangGraph)
-- Fine-tuning (LoRA/QLoRA)
+- Autonomous Agent Workflows
 - RAG System Architecture
-- Open Source AI Tools
+      
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="6212485181ca055f760855d98d3ee4bc.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Languages & Tools
 
-> ### Programming Languages
+> ### Programming & AI
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
 </p>
 
-> ### AI & Frameworks
+> ### Web & Databases
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ### Frontend & Backend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ### Database & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
 </p>
 
 ## 🔗 Connect with Me
@@ -69,20 +62,11 @@
   </a>
 </p>
 
-## 💬 Quote
-> The world is open-source
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-  </a>
-</p>
 
 <div align="center">
   <img src="6212485181ca055f760855d98d3ee4bc.gif" alt="Bottom Line" width="100%" />
